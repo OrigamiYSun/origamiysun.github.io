@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yucong Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my digital haven!!! 👋
+# Welcome to Yucong Sun's world! 👋
 
 ![Explorer](https://example.com/explorer-icon.png) ![Writer](https://example.com/writer-icon.png) ![Learner](https://example.com/learner-icon.png)
 
-I'm a passionate writer, explorer, and lifelong learner. Join me as I dive into the realms of literature, share captivating stories from my travels, and unravel the mysteries of life through my thought-provoking projects. Let's embark on a journey of discovery together! 🌍✨
+I am a PhD candidate from Shanghai, China. My research is in the field of movable structures and metamaterials, mainly origami-inspired structures. Here, I would like to share my research and life with you. If there is anything you would like to discuss with me, please do not hesitate to contact me via email：yucongsun@sjtu.edu.cn
 
 
 A data-driven personal website
