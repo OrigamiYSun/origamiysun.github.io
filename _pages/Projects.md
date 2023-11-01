@@ -17,7 +17,7 @@ This work presents a comprehensive framework for designing and analyzing the cur
 * Theoretical model
   Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.<>
 <div style="text-align:center;">
-  <img src="/images/CCO/fig_1.png" width="50%" height="auto">
+    <img src="/images/CCO/fig_1.png" width="50%" height="auto">
 </div>
   
 * Validation
