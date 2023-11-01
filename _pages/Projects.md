@@ -27,9 +27,11 @@ This work presents a comprehensive framework for designing and analyzing the cur
   <img src="/images/CCO/experiment.png" width="50%" height="auto">
   
 * Multi-sability
+  
   <img src="/images/CCO/twomulti.png" width="50%" height="auto">
   
 * Inverse Design
+  
 <img src="/images/CCO/zero_5_point_v3.png" width="50%" height="auto">
 
 The work was eventually published in IJMS: 
