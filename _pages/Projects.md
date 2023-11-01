@@ -15,8 +15,10 @@ redirect_from:
 This work presents a comprehensive framework for designing and analyzing the curved crease origami mechanical metamaterials and proposes the inverse design method that could pave the way for a range of novel applications.
 
 * Theoretical model
-  Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.
-  <img src="/images/CCO/fig_1.png" width="50%" height="auto" class="center">
+  Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.<>
+<div style="text-align:center;">
+  <img src="/images/CCO/fig_1.png" width="50%" height="auto">
+</div>
   
 * Validation
   The finite element method is compared with the theoretical model to verify the rationality of theoretical model.
