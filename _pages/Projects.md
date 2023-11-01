@@ -16,7 +16,7 @@ This work presents a comprehensive framework for designing and analyzing the cur
 
 * Theoretical model
   Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.
-  ![](/images/CCO/fig_1.png)
+  ![](/images/CCO/fig_1.png=x200)
   
 * Validation
   The finite element method is compared with the theoretical model to verify the rationality of theoretical model.
