@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "孙宇聪(Yucong Sun)"
+  name             : "孙宇聪"\"(Yucong Sun)"
   avatar           : "profile.png"
   bio              : "Phd student @SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "yucongsun@sjtu.edu.cn"
+  email            :  "yucongsun@sjtu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Yucong-Sun-3"
   uri              :
   bitbucket        :
