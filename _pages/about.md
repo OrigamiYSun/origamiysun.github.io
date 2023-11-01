@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my digital haven! 👋
+# Welcome to my digital haven!!! 👋
 
 ![Explorer](https://example.com/explorer-icon.png) ![Writer](https://example.com/writer-icon.png) ![Learner](https://example.com/learner-icon.png)
 
