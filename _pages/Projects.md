@@ -16,21 +16,21 @@ This work presents a comprehensive framework for designing and analyzing the cur
 
 * Theoretical model
   Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.
-  ![avatar](/images/CCO/fig_1.png){width=50% height=auto}
+  ![avatar](/images/CCO/fig_1.png =150x150)
   
 * Validation
   The finite element method is compared with the theoretical model to verify the rationality of theoretical model.
-  ![avatar](/images/CCO/Figure4.png){width=50% height=auto}
+  ![avatar](/images/CCO/Figure4.png)
   
 * Experiment
   The validity of the theoretical model is further verified by experiments.
-  ![avatar](/images/CCO/experiment.png){width=50% height=auto}
+  ![avatar](/images/CCO/experiment.png)
   
 * Multi-sability
-  ![avatar](/images/CCO/twomulti.png){width=50% height=auto}
+  ![avatar](/images/CCO/twomulti.png)
   
 * Inverse Design
- ![avatar](/images/CCO/zero_5_point_v3.png){width=50% height=auto}
+ ![avatar](/images/CCO/zero_5_point_v3.png)
 
 The work was eventually published in IJMS: 
 [Sun, Yucong, et al. "Curved-creased origami mechanical metamaterials with programmable stabilities and stiffnesses." International Journal of Mechanical Sciences (2023): 108729.](https://doi.org/10.1016/j.ijmecsci.2023.108729)
