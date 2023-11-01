@@ -9,7 +9,13 @@ redirect_from:
 
 ## List of my projects
 * [Curved-creased origami mechanical metamaterial](#CCO)
-* Origami Simulation
+* [Origami Simulation](#OS)
 --------------------------------------------------------------
-## <span id="CCO"> [Curved-creased origami mechanical metamaterial] </span>
+## <span id="CCO"> Curved-creased origami mechanical metamaterial </span>
+
+
+## <span id="OS"> Origami Simulation </span>
+![avatar](/images/Samio1.jpg)
+
+
 
