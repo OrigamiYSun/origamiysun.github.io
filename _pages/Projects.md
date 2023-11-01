@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## List of my projects
-* [Curved-creased origami mechanical metamaterial](#CCO)
+* [Curved-creased Origami Mechanical Metamaterial](#CCO)
 * [Origami Simulation](#OS)
 --------------------------------------------------------------
 ## <span id="CCO"> Curved-creased origami mechanical metamaterial (Completed)</span>
