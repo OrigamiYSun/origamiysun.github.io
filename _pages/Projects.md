@@ -14,27 +14,39 @@ redirect_from:
 ## <span id="CCO"> Curved-creased origami mechanical metamaterial (Completed)</span>
 This work presents a comprehensive framework for designing and analyzing the curved crease origami mechanical metamaterials and proposes the inverse design method that could pave the way for a range of novel applications.
 
+好的，以下是代码片段，可以将图片居中：
+
+```html
 * Theoretical model
-  Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.<>
+  Based on the hypothesis of ruling angle, the theoretical model is deduced from mechanics and geometry.
 <div style="text-align:center;">
     <img src="/images/CCO/fig_1.png" width="50%" height="auto">
 </div>
   
 * Validation
   The finite element method is compared with the theoretical model to verify the rationality of theoretical model.
-  <img src="/images/CCO/Figure4.png" width="50%" height="auto" class="center">
-  
+<div style="text-align:center;">
+    <img src="/images/CCO/Figure4.png" width="50%" height="auto">
+</div>
+
 * Experiment
   The validity of the theoretical model is further verified by experiments.
-  <img src="/images/CCO/experiment.png" width="50%" height="auto" class="center">
-  
+<div style="text-align:center;">
+    <img src="/images/CCO/experiment.png" width="50%" height="auto">
+</div>
+
 * Multi-sability
-  
-  <img src="/images/CCO/twomulti.png" width="50%" height="auto" class="center">
-  
+<div style="text-align:center;">
+    <img src="/images/CCO/twomulti.png" width="50%" height="auto">
+</div>
+
 * Inverse Design
-  
-<img src="/images/CCO/zero_5_point_v3.png" width="50%" height="auto" class="center">
+<div style="text-align:center;">
+    <img src="/images/CCO/zero_5_point_v3.png" width="50%" height="auto">
+</div>
+```
+
+在这个代码片段中，我们使用了一个 `div` 元素来包含图片，并将 `text-align
 
 The work was eventually published in IJMS: 
 [Sun, Yucong, et al. "Curved-creased origami mechanical metamaterials with programmable stabilities and stiffnesses." International Journal of Mechanical Sciences (2023): 108729.](https://doi.org/10.1016/j.ijmecsci.2023.108729)
