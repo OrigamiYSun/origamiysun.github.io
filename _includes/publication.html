@@ -1,0 +1,15 @@
+<article class="archive__item">
+  <h2 class="archive__item-title">
+    <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+  </h2>
+
+  <p class="publication-meta">
+    {{ entry.authors | join: ", " }} ｜ {{ entry.journal }}, {{ entry.year }}
+  </p>
+
+  {% if entry.excerpt %}
+    <div class="archive__item-excerpt">
+      {{ entry.excerpt | markdownify | strip_html | truncatewords: 32 }}
+    </div>
+  {% endif %}
+</article>
