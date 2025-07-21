@@ -1,0 +1,15 @@
+---
+# 这三条短划线 + 空 front-matter 必须要，否则 Jekyll 不会编译
+---
+/* 调小列表里每篇论文的标题 */
+.archive__item-title {
+  font-size: 1.15rem;     /* 默认 1.375rem */
+  margin-bottom: 0.2rem;
+}
+
+/* 作者、期刊这两行 */
+.publication-meta {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0.1rem 0 0.8rem;
+}
