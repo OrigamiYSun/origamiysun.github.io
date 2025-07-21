@@ -1,0 +1,24 @@
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+  {% if post.teaser %}
+    <img class="archive__item-teaser" src="{{ post.teaser | relative_url }}" alt="">
+  {% endif %}
+
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+  </h2>
+
+  <!-- 新增：作者｜期刊，年份 --------------------------------------- -->
+  {% if post.journal %}
+    <p class="publication-meta">
+      {{ post.authors | join: ", " }} ｜ {{ post.journal }}, {{ post.year }}
+    </p>
+  {% endif %}
+  <!-- ----------------------------------------------------------- -->
+
+  {% if post.excerpt %}
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt | markdownify | strip_html | truncatewords: 32 }}
+    </div>
+  {% endif %}
+</article>
