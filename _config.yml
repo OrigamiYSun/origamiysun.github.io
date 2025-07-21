@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Yucong Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yucong Sun"
 description              : &description "PHD student in Shanghai Jiao Tong University, China"
