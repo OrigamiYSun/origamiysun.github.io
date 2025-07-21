@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Yucong Sun"
 title_separator          : "-"
 name                     : &name "Yucong Sun"
-description              : &description "personal description"
+description              : &description "PHD student in Shanghai Jiao Tong University, China"
 url                      : https://origamiysun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "origamiysun.github.io"
