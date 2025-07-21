@@ -16,4 +16,4 @@ year: 2024
 doi: 10.1016/j.ijmecsci.2024.108729
 # image: ./featured.png            # 若以后想放配图，再解开这一行
 ---
-[→ Link（Elsevier）](https://doi.org/10.1016/j.ijmecsci.2024.108729) ｜ [→ PDF](#)
+[→ Link（Elsevier）](https://doi.org/10.1016/j.ijmecsci.2023.108729) ｜ [→ PDF](#)
