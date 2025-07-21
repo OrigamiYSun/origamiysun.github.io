@@ -3,8 +3,10 @@
 ---
 /* 调小列表里每篇论文的标题 */
 .archive__item-title {
-  font-size: 1.15rem;     /* 默认 1.375rem */
+  font-size: 1.0rem;     /* 默认 1.375rem */
+  font-weight: normal;
   margin-bottom: 0.2rem;
+  color: #555;
 }
 
 /* 作者、期刊这两行 */
@@ -13,3 +15,4 @@
   color: #555;
   margin: 0.1rem 0 0.8rem;
 }
+
